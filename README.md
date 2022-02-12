@@ -1,4 +1,4 @@
-#GPU Implementation of the Decomposed CNN with Tensor Networks 
+# GPU Implementation of the Decomposed CNN with Tensor Networks 
 This work is the extention of the paper title "Fast GPU Convolution for CP-decomposed Tensorial Neural Networks"
 
 # ParallelTNNLayers
